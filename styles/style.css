@@ -1,0 +1,128 @@
+body {
+    text-align: center;
+    margin-top: 100px;
+  }
+h2{
+  color: #0D2C40; 
+  font-family: "Raleway", sans-serif;
+  letter-spacing: 1px;
+  font-weight: 600px;
+  font-size: 45px;
+}
+h1 {
+    font-family: "Raleway", sans-serif;
+    background-color: #F15B31;
+    letter-spacing: 1px;
+    color: white;
+    margin: 0 auto;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-size: 45px;
+}
+header{
+  background-color: #F15B31;
+  padding-top: 30px;
+  padding-bottom:  20px; 
+  padding-right: 30px;
+  padding-left:  20px;
+  text-align: center;
+}
+a{
+  font-family: "Droid Serif", serif;
+  letter-spacing: 1px;
+  font-weight: 600px;
+  font-size: 18px;
+  text-transform: uppercase;
+
+
+}
+p {
+  font-family: "Droid Serif", serif;
+  line-height: 26px;
+  font-size: 18px;
+}
+
+
+}
+
+#wrapper{
+  height: 0 auto;
+  width: 0 auto;
+  margin width: 15px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  margin-right: 0 auto;
+  margin-left: 0 auto;
+}
+
+img{
+  margin-top: 40px;
+  margin-right: 8px;
+  margin-left: 8px;
+}
+nav{
+  background-color: #00A6B3;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+  padding-left: 20px; 
+}
+main{
+  width: 850px;
+  margin: 35px auto 35px auto;
+}
+
+footer{
+    background-color: #0D2C40;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 14px;
+    letter-spacing: .08em;
+    font-weight: 500;
+    color:white;
+    clear: both; 
+    text-transform: uppercase;
+}
+
+.footer_div_left{
+  min-height: 25px;
+  min-width: 250px;
+  text-align: left;
+  float: left;
+  position: absolute;
+}
+
+.footer_div_right{
+  min-height: 25px;
+  min-width: 250px;
+  text-align: right;
+  position: relative;
+}
+.name{
+  color: #F15B31
+}
+.copyright{
+  font-family: "Raleway";
+  float: left;
+}
+.message{
+  font-family: "Raleway";
+  float: right;
+}
+.clearfix:after {
+  visibility:hidden;
+  display: block;
+  content: " ";
+  clear: both;
+  height: 0;
+  font-size: 0; 
+}
+a:hover {
+  border color: white;
+  /* Your styles here */
+}
+
+
